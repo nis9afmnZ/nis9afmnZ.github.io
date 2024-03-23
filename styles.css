@@ -1,0 +1,163 @@
+
+.secondGr {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3cac58;
+    border: solid rgba(124, 124, 124, 0.767);
+    color: dark;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .secondGr:hover {
+    background-color: white;
+  }
+
+  .secondGr:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .firstGr {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3cac58;
+    border: solid rgba(124, 124, 124, 0.767);
+    color: dark;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .firstGr:hover {
+    background-color: whitesmoke;
+  }
+
+  .firstGr:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .modern {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3cac58;
+    border: solid rgba(124, 124, 124, 0.767);
+    color: dark;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .modern:hover {
+    background-color: white;
+  }
+
+  .modern:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .choosename {
+    height: 50px;
+    width: 200px;
+    border: solid rgba(124, 124, 124, 0.767);
+  }
+  .chooseOne {
+    height: 50px;
+    width: 200px;
+    border: solid rgba(124, 124, 124, 0.767);
+  }
+  .chooseTwo {
+    height: 50px;
+    width: 200px;
+    border: solid rgba(124, 124, 124, 0.767);
+  }
+  html, body {
+    width: 100%;
+    height:100%;
+  }
+  
+  body {
+      background: linear-gradient(-45deg, #000000, #918787e5, #50565af1, #242424);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+  }
+  
+  @keyframes gradient {
+      0% {
+          background-position: 0% 50%;
+      }
+      50% {
+          background-position: 100% 50%;
+      }
+      100% {
+          background-position: 0% 50%;
+      }
+  }
+  .girls {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3cac58;
+    border: solid rgba(124, 124, 124, 0.767);
+    color: dark;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .girls:hover {
+    background-color: white;
+  }
+
+  .girls:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .boyss {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3cac58;
+    border: solid rgba(124, 124, 124, 0.767);
+    color: dark;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .boyss:hover {
+    background-color: white;
+  }
+
+  .boyss:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .boys {
+    height: 50px;
+    width: 200px;
+    border: solid rgba(124, 124, 124, 0.767);
+  }
+  .chooseThree {
+    height: 50px;
+    width: 200px;
+    border: solid rgba(124, 124, 124, 0.767);
+  }
